@@ -78,6 +78,8 @@ if(isset($_SESSION['sesi'])){
 		
 		<div id="footer"><h3>Sistem Informasi Perpustakaan (sipus) | Praktikum </h3></div>
 	</div>
+
+	<!-- <p>ini tambahan saja yang dicomment</p> -->
 </body>
 </html>
 <?php
